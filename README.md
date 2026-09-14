@@ -227,4 +227,4 @@ This repository serves as the official landing page for DANCE. The software is d
 **Get the most recent version of DANCE today!**
 
 ---
-**Last updated:** 2026-09-13 22:52:24 UTC
+**Last updated:** 2026-09-14 00:43:45 UTC
